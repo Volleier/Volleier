@@ -2,6 +2,10 @@
 <div align="center"><img src="Asserts/蓬莱寺劭鸮.png"></div>
 
 <div align="center">
+  <ins><b> A Student  |  A Progammer  |  An Illustrator  |  A GameMaker </b></ins>
+</div>
+
+<div align="center">
   <a href="https://x.com/volleier_shao"><img src="https://img.shields.io/badge/Twitter-skyblue?style=flat-square&logo=x&logoColor=white"></a>
   <a href="https://www.pixiv.net/users/72407793"><img src="https://img.shields.io/badge/Pixiv-blue?style=flat-square&logo=Pixiv&logoColor=white"></a>
   <a href="mailto:volleiershao@gmail.com"><img src="https://img.shields.io/badge/Gmail-yellow?style=flat-square&logo=Gmail&logoColor=white"></a>
