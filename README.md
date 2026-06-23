@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="Asserts/蓬莱寺劭鸮.png" width="180px" style="border-radius: 50%;" />
+  <img src="Asserts/蓬莱寺劭鸮.png" />
   
   <h1>Hi, I'm Volleier (蓬莱寺劭鸮) 👋</h1>
 
@@ -28,18 +28,18 @@
 <table style="border-collapse: collapse; width: 100%; border: none;" align="center">
   <tr style="border: none;">
     <td align="center" style="border: none; padding: 5px; width: 50%;">
-      <img src="https://github-readme-stats.vercel.app/api?username=Volleier&show_icons=true&theme=gotham" height="195px" />
+      <img src="https://github-readme-stats.vercel.app/api?username=Volleier&show_icons=true&theme=gotham" />
     </td>
     <td align="center" style="border: none; padding: 5px; width: 50%;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Volleier&layout=compact&theme=gotham" height="195px" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Volleier&layout=compact&theme=gotham" />
     </td>
   </tr>
   <tr style="border: none;">
     <td align="center" style="border: none; padding: 5px; width: 50%;">
-      <img src="https://streak-stats.demolab.com/?user=Volleier&theme=gotham" height="195px" />
+      <img src="https://streak-stats.demolab.com/?user=Volleier&theme=gotham" />
     </td>
     <td align="center" style="border: none; padding: 5px; width: 50%;">
-      <img src="https://leetcard.jacoblin.cool/penglaisi?theme=dark&font=Courier%20Prime&ext=heatmap&site=cn" height="195px" />
+      <img src="https://leetcard.jacoblin.cool/penglaisi?theme=dark&font=Courier%20Prime&ext=heatmap&site=cn" />
     </td>
   </tr>
 </table>
