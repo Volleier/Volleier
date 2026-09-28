@@ -1,6 +1,4 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2aa889,50:187566,100:2aa889&height=260&section=header&text=Volleier-nl-%E8%93%AC%E8%8E%B1%E5%AF%BA%E5%8A%AD%E9%B8%AE&fontSize=44&fontColor=99d1ce&animation=fadeIn&fontAlignY=24,46&fontFamily=Outfit" alt="Volleier / 蓬莱寺劭鸮" />
-
   <img src="Asserts/蓬莱寺劭鸮.png" />
   
   <h1>Hi, I'm Volleier (蓬莱寺劭鸮) 👋</h1>
@@ -78,5 +76,3 @@
 </table>
 
 <br>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2aa889,50:187566,100:2aa889&height=170&section=footer" alt="" />
