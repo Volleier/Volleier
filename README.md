@@ -1,9 +1,11 @@
 <div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0c1014,55:0b1a18,100:2aa889&height=200&section=header&text=Volleier-nl-%E8%93%AC%E8%8E%B1%E5%AF%BA%E5%8A%AD%E9%B8%AE&fontSize=42&fontColor=2aa889&animation=fadeIn&fontAlignY=36,64&fontFamily=Outfit" alt="Volleier / 蓬莱寺劭鸮" />
+
   <img src="Asserts/蓬莱寺劭鸮.png" />
   
   <h1>Hi, I'm Volleier (蓬莱寺劭鸮) 👋</h1>
 
-  <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=24&duration=3000&pause=1000&color=2494C2&center=true&vCenter=true&width=500&lines=A+Student;A+Programmer;An+Illustrator;A+GameMaker" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=24&duration=3000&pause=1000&color=2AA889&center=true&vCenter=true&width=500&lines=A+Student;A+Programmer;An+Illustrator;A+GameMaker" alt="Typing SVG" />
 
   <p>
     <a href="https://x.com/volleier_shao"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white"></a>
@@ -46,10 +48,16 @@
 
 <br>
 
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Volleier&theme=tokyonight&no-frame=true&no-bg=true&column=4&row=2" alt="GitHub trophies" />
+</div>
+
+<br>
+
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Volleier&theme=gotham&bg_color=00000000&hide_border=true" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Volleier&theme=github&bg_color=00000000&hide_border=true" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Volleier&theme=gotham&bg_color=00000000&hide_border=true" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Volleier/Volleier/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Volleier/Volleier/output/github-contribution-grid-snake.svg" />
+  <img alt="Snake eating contributions" src="https://raw.githubusercontent.com/Volleier/Volleier/output/github-contribution-grid-snake.svg" width="100%" />
 </picture>
 
 <img width="100%" src="Asserts/DividingLine.gif" />
@@ -76,3 +84,5 @@
 </table>
 
 <br>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0c1014,55:0b1a18,100:2aa889&height=120&section=footer" alt="" />
