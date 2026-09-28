@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0c1014,55:0b1a18,100:2aa889&height=200&section=header&text=Volleier-nl-%E8%93%AC%E8%8E%B1%E5%AF%BA%E5%8A%AD%E9%B8%AE&fontSize=42&fontColor=2aa889&animation=fadeIn&fontAlignY=36,64&fontFamily=Outfit" alt="Volleier / 蓬莱寺劭鸮" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2aa889,50:187566,100:2aa889&height=260&section=header&text=Volleier-nl-%E8%93%AC%E8%8E%B1%E5%AF%BA%E5%8A%AD%E9%B8%AE&fontSize=44&fontColor=99d1ce&animation=fadeIn&fontAlignY=24,46&fontFamily=Outfit" alt="Volleier / 蓬莱寺劭鸮" />
 
   <img src="Asserts/蓬莱寺劭鸮.png" />
   
@@ -79,4 +79,4 @@
 
 <br>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0c1014,55:0b1a18,100:2aa889&height=120&section=footer" alt="" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2aa889,50:187566,100:2aa889&height=170&section=footer" alt="" />
