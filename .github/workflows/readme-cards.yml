@@ -2,8 +2,8 @@ name: Update README cards
 
 on:
   schedule:
-    # Once a day, off the hour so it does not line up with other scheduled jobs.
-    - cron: "23 6 * * *"
+    # Once a day at 00:00 UTC.
+    - cron: "0 0 * * *"
   workflow_dispatch:
 
 jobs:
