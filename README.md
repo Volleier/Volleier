@@ -48,12 +48,6 @@
 
 <br>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Volleier&theme=tokyonight&no-frame=true&no-bg=true&column=4&row=2" alt="GitHub trophies" />
-</div>
-
-<br>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Volleier/Volleier/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Volleier/Volleier/output/github-contribution-grid-snake.svg" />
