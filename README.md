@@ -28,10 +28,10 @@
 <table style="border-collapse: collapse; width: 100%; border: none;" align="center">
   <tr style="border: none;">
     <td align="center" style="border: none; padding: 5px; width: 50%;">
-      <img src="https://github-readme-stats.vercel.app/api?username=Volleier&show_icons=true&theme=gotham" />
+      <img src="profile/stats.svg" />
     </td>
     <td align="center" style="border: none; padding: 5px; width: 50%;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Volleier&layout=compact&theme=gotham" />
+      <img src="profile/top-langs.svg" />
     </td>
   </tr>
   <tr style="border: none;">
